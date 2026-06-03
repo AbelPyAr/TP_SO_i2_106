@@ -1,0 +1,11 @@
+a-desde mi github sincronizo el fork
+b-si, alfa puede actualizarlo a la nueva version en el repositorio
+c- si gamma puede actualizar su fork sincronizando  los cambios   d- no los cambios propios no se pierden
+d- no los cambios propios no se pierden
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+1-Beta creo un repositorio con un txt
+2-Gama clono el repositorio y añadio hora e IP al txt. Luego hizo el push
+3- Alpha clono el repositorio y añadio hora e IP al txt. Luego hizo el push
+4- Beta descargo el repositorio con las respuestas de los dos participantes y creo un txt de respuestas
+5- Gama añadio respuestas al txt respuestas
+6- Alpha detallo los paso, lo subio al github de Beta y lo sincronizo

@@ -1,2 +1,6 @@
 Rafael Guzman 192.168.100.2 11:11
+<<<<<<< HEAD
 Franco Zangla ip:192.168.1.39 Hora: 11:16
+=======
+Franco Zangla  192.168.1.39 11:21
+>>>>>>> 06d90653415ecd04ab7f07dcab98cd6461400cf0
